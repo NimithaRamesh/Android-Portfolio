@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nimitharamesh/Downloads/t10-nimitha-dev-2/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/nimitharamesh/Downloads/t10-nimitha-dev-2/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-9d4d4a553ce69c210bd3024cc49d5bbea46150fb.jar" />
+    </item>
+    <item
+        jar="/Users/nimitharamesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/nimitharamesh/Downloads/t10-nimitha-dev-2/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-ee441545f1f0f42c8ddde92c5f11a91a70548253.jar" />
+    </item>
+    <item
+        jar="/Users/nimitharamesh/Downloads/t10-nimitha-dev-2/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/nimitharamesh/Downloads/t10-nimitha-dev-2/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-49511d299755213f4276481b28ee01f5db31929d.jar" />
+    </item>
+    <item
+        jar="/Users/nimitharamesh/Downloads/t10-nimitha-dev-2/MyAppPortfolio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/nimitharamesh/Downloads/t10-nimitha-dev-2/MyAppPortfolio/app/build/intermediates/pre-dexed/debug/classes-e12c7d18ffe8cf8540809b386ceae4d55e57dcb1.jar" />
+    </item>
+
+</items>
